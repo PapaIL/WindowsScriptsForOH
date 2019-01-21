@@ -1,6 +1,6 @@
 # WindowsScriptsForOH
 
-These are Windows .bat files that can aid our installing & testing our installs of Windows OpenHAB 2 & related programs (like Mosquitto MQTT broker. Download the files to where you can find them & double click a file to run it.  Screens will progressively give you information (like what changes the .bat makes to your computer) & instructions.
+These are Windows .bat files that can aid our installing & testing our installs of Windows OpenHAB 2 & related programs (like Mosquitto MQTT broker). Download the files to where you can find them & double click a file to run it.  Screens will progressively give you information (like what changes the .bat makes to your computer) & instructions.
 
 MosquittoTest5.bat only tests your computer for a running & working Mosquitto service.
 
